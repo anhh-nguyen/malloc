@@ -1,2 +1,4 @@
 # malloc
-implementing the backend of the four core functions for dynamic allocation: malloc, free, calloc, and realloc.
+Implementing the backend of the four core functions for dynamic allocation: malloc, free, calloc, and realloc in C
+
+
